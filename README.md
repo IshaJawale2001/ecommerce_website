@@ -1,4 +1,4 @@
-# ecommerce_pratibha
+# ecommerce_website
 
 # Laravel E-Commerce CMS & API with Razorpay Integration
 
@@ -29,7 +29,7 @@ This is a Laravel-based e-commerce backend application featuring admin product m
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/PratibhaJadhav2002/ecommerce_pratibha.git
+   git clone https://github.com/IshaJawale2001/ecommerce_website.git
    cd ecommerce_website 
 
 2. Install PHP & JS Dependencies
@@ -48,7 +48,7 @@ RAZORPAY_KEY=rzp_test_Ng1Ly4na8v8BLk
 RAZORPAY_SECRET=wjHFJaDDlcztSFJ2iTaV4ib8
 
 4. Import SQL
-Import the included file: ecommerce_pratibha.sql into MySQL (v8+)
+Import the included file: ecommerce_website.sql into MySQL (v8+)
 5. Run the Application
 6. Login as Admin
 Go to: http://localhost:8000/admin/login  OR   
